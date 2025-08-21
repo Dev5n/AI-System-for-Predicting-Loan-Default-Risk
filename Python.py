@@ -1,0 +1,1 @@
+SmartRisk is a streamlined machine learning tool designed to estimate the probability of loan default based on real-world borrower attributes. It's optimized for speed, interpretability, and transparency, using Python for the core model and SQL for data preprocessing
